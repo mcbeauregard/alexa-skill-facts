@@ -1,0 +1,48 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "odd facts",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "name": "GetNewFactIntent",
+          "samples": [
+            "an odd",
+            "an odd thing",
+            "an odd things",
+            "tell me an odd thing",
+            "tell me an odd",
+            "give me an odd",
+            "give me an odd thing",
+            "tell me trivia",
+            "tell me an odd thing trivia",
+            "tell me an odd thing trivia about america",
+            "give me trivia",
+            "give me an odd trivia",
+            "give me an odd thing about america",
+            "give me some information",
+            "give me some odd information",
+            "tell me something",
+            "give me something"
+          ],
+          "slots": []
+        }
+      ]
+    }
+  }
+}
